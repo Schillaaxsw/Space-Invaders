@@ -1,2 +1,2 @@
 # Space-Invaders
-Gioco divertente realizzato con l'utilizzo di thread, multi-threading
+Gioco divertente di Space Invaders realizzato con l'utilizzo di programmazione multi-threading
